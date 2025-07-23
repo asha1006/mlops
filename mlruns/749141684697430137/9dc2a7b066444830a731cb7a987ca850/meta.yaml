@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/asha/mlops_pro/mlruns/749141684697430137/9dc2a7b066444830a731cb7a987ca850/artifacts
+end_time: 1753253381891
+entry_point_name: ''
+experiment_id: '749141684697430137'
+lifecycle_stage: active
+run_id: 9dc2a7b066444830a731cb7a987ca850
+run_name: useful-calf-484
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753253377356
+status: 3
+tags: []
+user_id: ashaa

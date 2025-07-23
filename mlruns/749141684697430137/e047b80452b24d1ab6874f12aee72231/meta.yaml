@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/asha/mlops_pro/mlruns/749141684697430137/e047b80452b24d1ab6874f12aee72231/artifacts
+end_time: 1753253364097
+entry_point_name: ''
+experiment_id: '749141684697430137'
+lifecycle_stage: active
+run_id: e047b80452b24d1ab6874f12aee72231
+run_name: debonair-quail-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753253359785
+status: 3
+tags: []
+user_id: ashaa

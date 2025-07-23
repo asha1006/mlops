@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/asha/mlops_pro/mlruns/749141684697430137/7dc4ba3ac2ee4a35b42ac58b5edd0701/artifacts
+end_time: 1753251103532
+entry_point_name: ''
+experiment_id: '749141684697430137'
+lifecycle_stage: active
+run_id: 7dc4ba3ac2ee4a35b42ac58b5edd0701
+run_name: wistful-wasp-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251099231
+status: 3
+tags: []
+user_id: ashaa

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/asha/mlops_pro/mlruns/749141684697430137/028a83ce332f49ebae14844f2a28ce5b/artifacts
+end_time: 1753251015068
+entry_point_name: ''
+experiment_id: '749141684697430137'
+lifecycle_stage: active
+run_id: 028a83ce332f49ebae14844f2a28ce5b
+run_name: mercurial-deer-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753251005571
+status: 3
+tags: []
+user_id: ashaa

@@ -1,0 +1,10 @@
+artifact_location: file:///C:/asha/mlops_pro/mlruns/749141684697430137/models/m-2956c04e68d7412ab0949f574e53e674/artifacts
+creation_timestamp: 1753253377470
+experiment_id: '749141684697430137'
+last_updated_timestamp: 1753253381850
+model_id: m-2956c04e68d7412ab0949f574e53e674
+model_type: null
+name: student_model
+source_run_id: 9dc2a7b066444830a731cb7a987ca850
+status: 2
+status_message: null
